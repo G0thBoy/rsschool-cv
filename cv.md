@@ -4,3 +4,19 @@
 [This is my GH profile](https://github.com/G0thBoy)
 
 [This is my VK profile](https://vk.com/popoutlikeatoast)
+
+My current goal is to become the best front-end or even fullstack developer in the world(I know that im pretty ambitious person).
+
+I'm 18 years old lazy gamer that believes in himself, and enjoys coding.
+
+## My "skills"
+
+- HTML
+- CSS+SCSS
+- And i can assign value to object in JS
+
+```
+
+const myArray = [1, 58, 90]
+
+```
