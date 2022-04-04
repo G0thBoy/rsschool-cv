@@ -20,3 +20,8 @@ I'm 18 years old lazy gamer that believes in himself, and enjoys coding.
 const myArray = [1, 58, 90]
 
 ```
+## I don't have work experience
+
+## I learnt HTML and css by different youtube tutorials
+
+## My english level is probably A2.
